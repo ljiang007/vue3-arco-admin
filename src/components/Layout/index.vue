@@ -130,6 +130,7 @@ const toPath = (path) => {
   font-weight: 400;
   font-size: 14px;
   background: var(--color-bg-3);
+  padding: 20px;
 }
 .layout :deep(.arco-layout-footer),
 .layout :deep(.arco-layout-content) {
